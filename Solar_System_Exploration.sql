@@ -1,4 +1,4 @@
-/*And, Or, Group By, Having, Case, In, Subqueries*/
+/*Skills used: Create, Insert Into, Aggregate Functions, Joins, Subqueries, Nested Queries*/
 
 /* 
 Solar system objects
